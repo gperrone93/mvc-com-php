@@ -32,7 +32,7 @@ A melhor forma de acessar o projeto é criando um virtual host:
     </VirtualHost>  
 ```
 
-- Abra seu bloco de notas como administrador e cole a seguinte linha   
+- Abra seu bloco de notas como administrador e abra o arquivo hosts na pasta C:/Windows/System32/drivers/etc/hostsgit cole a seguinte linha   
 
 ```
     127.0.0.1	www.meuprojeto.com.br
