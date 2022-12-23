@@ -1,3 +1,10 @@
+## Créditos da Aplicação
+
+Esta aplicação foi desenvolvida seguindo as aulas do mestre Bonieky Lacerda do Curso PHP do Zero ao profissional  
+Confira mais sobre o curso em: 
+
+https://b7web.com.br/ 
+
 ## Instalação
 
 - Clonar ou baixar o repositório e jogar em uma pasta do seu Computador.  
